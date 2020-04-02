@@ -12,5 +12,12 @@ data()
 # Visualización de conjunto de datos
 cars
 
+# Resumen
+summary(cars)
 
+# Cantidad de filas (i.e. registros)
+nrows(cars)
+
+# Cantidad de columnas
+ncols(cars)
 ```
